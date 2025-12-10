@@ -29,14 +29,3 @@
     "getKnowledgeImage"
   ]
 }
-```
-
-- کلیک `Commit changes`
-
-### 4️⃣ دریافت URL خام فایل
-بعد از ساخت فایل:
-- کلیک روی فایل `config-schema.json`
-- کلیک روی دکمه `Raw` (گوشه راست بالا)
-- URL کپی می‌شه، چیزی شبیه این:
-```
-https://raw.githubusercontent.com/YOUR_USERNAME/license/main/config-schema.json
