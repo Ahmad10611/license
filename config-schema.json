@@ -1,0 +1,42 @@
+{
+  "version": "1.0.0",
+  "updated": "2025-12-10",
+  
+  "allowedHosts": [
+    "https://ddr.drmobilejayzan.info/"
+  ],
+  
+  "allowedKeys": [
+    "logo",
+    "title",
+    "host",
+    "mirrorDomain",
+    "loginPage",
+    "termsOfService",
+    "gateway_status",
+    "gateway_message",
+    "storeHome",
+    "SignPage",
+    "subscribeNotes",
+    "appsByOS",
+    "homeClient",
+    "homeBanner",
+    "giftCard",
+    "appstore",
+    "notice",
+    "knowledgeImages",
+    "knowledgeImagesByKeyword",
+    "getKnowledgeImage"
+  ]
+}
+```
+
+- کلیک `Commit changes`
+
+### 4️⃣ دریافت URL خام فایل
+بعد از ساخت فایل:
+- کلیک روی فایل `config-schema.json`
+- کلیک روی دکمه `Raw` (گوشه راست بالا)
+- URL کپی می‌شه، چیزی شبیه این:
+```
+https://raw.githubusercontent.com/YOUR_USERNAME/license/main/config-schema.json
