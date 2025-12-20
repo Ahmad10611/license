@@ -3,11 +3,11 @@
   "updated": "2025-12-20",
   
   "allowedHosts": [
-    "https://ddr.drmobilejayzann.info/"
+    "https://ddr.drmobilejayzan.info/"
   ],
   
   "domains": {
-    "https://ddr.drmobilejayzann.info/": {
+    "https://ddr.drmobilejayzan.info/": {
       "name": "دکتر موبایل جایزان",
       "enabled": true,
       "permissions": {
